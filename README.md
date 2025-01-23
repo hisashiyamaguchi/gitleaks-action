@@ -1,3 +1,4 @@
+note
 # Gitleaks Action
 
 ```
