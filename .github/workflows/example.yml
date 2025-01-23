@@ -4,7 +4,7 @@
 # If not, please visit https://gitleaks.io/COMMERCIAL-LICENSE.txt.
 
 name: gitleaks
-on: [pull_request, push, workflow_dispatch]
+on: [push]
 jobs:
   scan:
     name: gitleaks
